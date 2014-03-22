@@ -2,12 +2,44 @@
 *.slo
 *.lo
 *.o
+*.obj
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
+*.dll
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+*.lib
+
+#other VS files
+*.ncb
+*.user.vcproj
+*.ilk
+*.pdb
+*.exe 
+*.idb 
+*.suo 
+*.sdf 
+*.xdc 
+*.aps
+
+*.cache 
+*.exe.config 
+*.resources 
+*.manifest 
+*.manifest.res 
+buildlog.htm 
+*.vcproj.user
+*.vcproj.*.user 
+*.vcproj.*.*.user
+*.vcxproj.user
+*.vcxproj.*.user 
+*.vcxproj.*.*.user
+Debug
+Debug?-?Unicode
+Release
+Release?-?Unicode
